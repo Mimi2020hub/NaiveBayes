@@ -1,1 +1,1 @@
-# NaiveBayes
+# NaiveBayes classifier implementation
